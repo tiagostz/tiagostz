@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Tiago Santos
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Junior`**
 
 Profissional da área de Tecnologia formado em Análise e Desenvolvimento de Sistemas.
 
