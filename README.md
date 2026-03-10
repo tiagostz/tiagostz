@@ -94,8 +94,6 @@ align="left"
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
 <!-- <p>
   <img 
     align="left" 
@@ -105,10 +103,8 @@ align="left"
     src="https://github-readme-stats.vercel.app/api?username=tiagostz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   /> -->
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagostz&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  ## 📊 Estatísticas
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tiagostz&theme=dracula)
+
 </p>
