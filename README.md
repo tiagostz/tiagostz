@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Sou um profissional da área de Tecnologia formado em Análise e Desenvolvimento de Sistemas, com quase 5 anos de experiência na área tecnológica.
+Sou um profissional da área de Tecnologia formado em Análise e Desenvolvimento de Sistemas, com mais de 5 anos de experiência na área tecnológica.
 
 Ao longo da minha jornada profissional, adquiri experiência em tecnologias de front-end e back-end, trabalhando com HTML, CSS, JavaScript, TypeScript e AngularJS no desenvolvimento de interfaces web. No back-end, também utilizei Node.js como ambiente de execução para aplicações JavaScript.
 
