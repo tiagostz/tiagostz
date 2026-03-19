@@ -146,17 +146,7 @@ align="left"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="VS Code"
-    title="VS Code" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-          
+/>         
 
 <br/>
 <br/>
