@@ -2,13 +2,15 @@
 
 **`Desenvolvedor Junior`**
 
-Sou um profissional da área de Tecnologia formado em Análise e Desenvolvimento de Sistemas, com mais de 5 anos de experiência na área tecnológica.
+Sou desenvolvedor formado em Análise e Desenvolvimento de Sistemas, com mais de 5 anos de experiência na área de tecnologia.
 
-Ao longo da minha jornada profissional, adquiri experiência em tecnologias de front-end e back-end, trabalhando com HTML, CSS, JavaScript, TypeScript e AngularJS no desenvolvimento de interfaces web. No back-end, também utilizei Node.js como ambiente de execução para aplicações JavaScript.
+Tenho experiência no desenvolvimento de aplicações web utilizando HTML, CSS, TypeScript e Angular, além de atuar no back-end com Node.js e JavaScript na construção de APIs e integrações entre sistemas.
 
-Possuo conhecimento na criação e gerenciamento de bancos de dados utilizando SQL e PostgreSQL, além de realizar testes e validações de APIs utilizando o Postman.
+Trabalho com bancos de dados como SQL Server e PostgreSQL, realizando modelagem, consultas e manipulação de dados. Também possuo experiência com testes e validação de APIs utilizando Postman.
 
-Participei do desenvolvimento de sistemas internos para diferentes áreas, como Jurídico e Produtos, integrando funcionalidades de front-end e back-end para entregar soluções eficientes e uma experiência fluida para os usuários.
+Participei do desenvolvimento de sistemas internos para áreas como Jurídico e Produtos, atuando de forma full stack e contribuindo com soluções eficientes e melhoria de processos.
+
+💡 Sempre buscando evolução constante como desenvolvedor, com foco em boas práticas, código limpo e performance.
 
 ---
 
