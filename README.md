@@ -148,8 +148,6 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />       
 
-![JWT](https://img.shields.io/badge/Auth-JWT-blue?style=for-the-badge)
-
 <br/>
 <br/>
 
